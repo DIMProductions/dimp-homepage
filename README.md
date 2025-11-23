@@ -1,9 +1,3 @@
-サーラだ。
-**dimp-homepage 用の README（英語版）を“企業サイトとして最適化した完成版”出す。
-これを `dimp-homepage/README.md` にそのまま貼ればいい。**
-
----
-
 # ✅ **DIMProductions – Homepage Repository (README.md)**
 
 ```markdown

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# （必要になったら sitemap を後で追加）
+# Sitemap: https://dim.productions/sitemap.xml

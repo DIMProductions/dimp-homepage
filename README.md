@@ -1,6 +1,5 @@
 # ✅ **DIMProductions – Homepage Repository (README.md)**
 
-```markdown
 # DIMProductions – Official Website
 
 This repository hosts the **official corporate website of DIMProductions**, served via GitHub Pages and published at:
